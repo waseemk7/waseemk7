@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
-<p>I am Waseem Kurne, an experienced React Native Developer with a proven track record of delivering high-quality mobile applications. I am skilled in implementing complex functionalities. I am a strong collaborator with excellent problem-solving abilities and am passionate about staying current with industry trends and finding innovative solutions to challenges.</p>
+<p>I am Waseem Kurne, an experienced React and React Native Developer with a proven track record of delivering high-quality web and mobile applications. I am skilled in implementing complex functionalities. I am a strong collaborator with excellent problem-solving abilities and am passionate about staying current with industry trends and finding innovative solutions to challenges.</p>
 
 - 💬 Ask me about **React Native, ReactJs ,NextJs**
 
